@@ -30,7 +30,7 @@
     ],
     "speedtest": ["https://ruleset.skk.moe/sing-box/domainset/speedtest.json"],
     "ai": [
-      "https://raw.githubusercontent.com/quanuanc/srs-box/sing-box/ruleset/data/AI.json",
+      "https://raw.githubusercontent.com/quanuanc/srs-box/refs/heads/sing-box/data/AI.json",
       "https://ruleset.skk.moe/sing-box/non_ip/ai.json"
     ],
     "apple_cn": ["https://ruleset.skk.moe/sing-box/non_ip/apple_cn.json"],
@@ -45,12 +45,12 @@
     ],
     "direct": ["https://ruleset.skk.moe/sing-box/non_ip/direct.json"],
     "domestic": [
-      "https://raw.githubusercontent.com/quanuanc/srs-box/sing-box/ruleset/data/Direct.json",
+      "https://raw.githubusercontent.com/quanuanc/srs-box/refs/heads/sing-box/data/Direct.json",
       "https://ruleset.skk.moe/sing-box/non_ip/domestic.json"
     ],
     "gitlab": ["https://ruleset.skk.moe/sing-box/non_ip/gitlab.json"],
     "global": [
-      "https://raw.githubusercontent.com/quanuanc/srs-box/sing-box/ruleset/data/Proxy.json",
+      "https://raw.githubusercontent.com/quanuanc/srs-box/refs/heads/sing-box/data/Proxy.json",
       "https://ruleset.skk.moe/sing-box/non_ip/global.json"
     ],
     "lan": ["https://ruleset.skk.moe/sing-box/non_ip/lan.json"],
