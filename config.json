@@ -43,11 +43,11 @@
     "cloudmounter": [
       "https://ruleset.skk.moe/sing-box/non_ip/cloudmounter.json"
     ],
-    "direct": ["https://ruleset.skk.moe/sing-box/non_ip/direct.json"],
-    "domestic": [
+    "direct": [
       "https://raw.githubusercontent.com/quanuanc/srs-box/refs/heads/sing-box/data/Direct.json",
-      "https://ruleset.skk.moe/sing-box/non_ip/domestic.json"
+      "https://ruleset.skk.moe/sing-box/non_ip/direct.json"
     ],
+    "domestic": ["https://ruleset.skk.moe/sing-box/non_ip/domestic.json"],
     "gitlab": ["https://ruleset.skk.moe/sing-box/non_ip/gitlab.json"],
     "global": [
       "https://raw.githubusercontent.com/quanuanc/srs-box/refs/heads/sing-box/data/Proxy.json",
