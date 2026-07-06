@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": ["zed.dev", "dns.google", "raycast.com", "atuin.sh"]
+    },
+    {
+      "ip_cidr": ["8.8.8.0/24"]
+    }
+  ],
+  "version": 4
+}

@@ -3,10 +3,14 @@ name: Update Rulesets
 on:
   schedule:
     - cron: '0 5 * * *'
+  push:
+    branches:
+      - sing-box
   workflow_dispatch:
 
 jobs:
   update:
+    if: github.ref == 'refs/heads/sing-box'
     runs-on: ubuntu-latest
     permissions:
       contents: write

@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "edge.apple",
+        "gmail.com",
+        "luee.net",
+        "oracle.com",
+        "oraclecloud.com",
+        "gptapi.us",
+        "micu.hk",
+        "litmos.com",
+        "bochk.com",
+        "etnet.com.hk",
+        "daxiaamu.com",
+        "tailscale.com",
+        "itdog.cn",
+        "seagm.com",
+        "shl.com"
+      ]
+    }
+  ],
+  "version": 4
+}

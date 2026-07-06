@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain": ["cloud.zed.dev"]
+    },
+    {
+      "domain_suffix": ["llm.zed.dev", "openrouter.ai", "stitch.withgoogle.com"]
+    }
+  ],
+  "version": 4
+}
